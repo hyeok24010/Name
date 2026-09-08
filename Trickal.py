@@ -518,13 +518,13 @@ player.speed = 3.3;
 
 player.damage = 17;
 
-player.attackSpeed = 720;
+player.attackSpeed = 360;
 
 player.range = 300;
 
 player.area = 1.2;
 
-player.projectileSpeed = 7;
+player.projectileSpeed = 5;
 
 player.skillNeed = 10;
 
