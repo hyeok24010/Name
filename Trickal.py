@@ -478,9 +478,9 @@ player.hp = 90;
 
 player.speed = 3.8;
 
-player.damage = 13;
+player.damage = 20;
 
-player.attackSpeed = 900;
+player.attackSpeed = 1200;
 
 player.range = 330;
 
