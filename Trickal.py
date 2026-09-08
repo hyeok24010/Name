@@ -1,4 +1,4 @@
-import streamlit as st
+9import streamlit as st
 import streamlit.components.v1 as components
 
 st.set_page_config(
@@ -480,11 +480,11 @@ player.speed = 3.8;
 
 player.damage = 30;
 
-player.attackSpeed = 300;
+player.attackSpeed = 100;
 
-player.range = 330;
+player.range = 3300;
 
-player.skillNeed = 10;
+player.skillNeed = 5;
 
 }
 
@@ -502,7 +502,7 @@ player.attackSpeed = 720;
 
 player.range = 220;
 
-player.damageReduction = 0.2;
+player.damageReduction = 0.5;
 
 player.skillNeed = 10;
 
@@ -526,7 +526,7 @@ player.area = 1.2;
 
 player.projectileSpeed = 7;
 
-player.skillNeed = 12;
+player.skillNeed = 10;
 
 }
 
