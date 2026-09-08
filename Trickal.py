@@ -480,11 +480,11 @@ player.speed = 3.8;
 
 player.damage = 13;
 
-player.attackSpeed = 600;
+player.attackSpeed = 900;
 
 player.range = 330;
 
-player.skillNeed = 15;
+player.skillNeed = 12;
 
 }
 
