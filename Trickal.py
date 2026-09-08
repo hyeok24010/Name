@@ -480,7 +480,7 @@ player.speed = 3.8;
 
 player.damage = 13;
 
-player.attackSpeed = 500;
+player.attackSpeed = 600;
 
 player.range = 330;
 
@@ -500,11 +500,11 @@ player.damage = 24;
 
 player.attackSpeed = 720;
 
-player.range = 120;
+player.range = 220;
 
-player.damageReduction = 0.12;
+player.damageReduction = 0.2;
 
-player.skillNeed = 12;
+player.skillNeed = 10;
 
 }
 
@@ -1473,7 +1473,7 @@ weapon === "sword"
 ) {
 
 player.shield +=
-65+level*12;
+65+level*20;
 
 player.skillActive = true;
 
