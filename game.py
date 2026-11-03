@@ -60,8 +60,8 @@ def normalize(name):
 def get_apple_games():
 
     url = (
-        "https://itunes.apple.com/kr/rss/"
-        "topfreeapplications/limit=50/genre=6014/json"
+    "https://play.google.com/store/apps/collection/"
+    "topselling_free?hl=ko&gl=KR&cat=GAME"
     )
 
     response = requests.get(
